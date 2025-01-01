@@ -1,0 +1,11 @@
+div {
+    position: absolute;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none;
+}
+
+body {
+    background-color: rgb(185, 232, 255);
+}
