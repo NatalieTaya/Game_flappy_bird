@@ -8,4 +8,5 @@ div {
 
 body {
     background-color: rgb(185, 232, 255);
+    overflow: hidden;
 }
